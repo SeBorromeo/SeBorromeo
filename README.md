@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a rising fourth-year CS undergrad at the University of Virginia!
+
+- 🔭 I’m currently working on my portfolio website!
+- 🌱 I’m currently learning more about ReactJS!
+  
 <!--
 **SeBorromeo/SeBorromeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
